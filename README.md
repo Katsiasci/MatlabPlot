@@ -17,11 +17,9 @@ This project provides a MATLAB-based tool for performing regression analysis and
 ### 使用方法：
 1. 准备包含实际值和预测值的数据集。
 2. 调用 `plotRes2Pre` 函数来可视化回归结果。
-3. 查看评估指标和模型性能。
 ### Usage:
 1. Prepare your dataset with actual and predicted values.
 2. Call the `plotRes2Pre` function to visualize the regression results.
-3. View the evaluation metrics and performance.
 
 此工具适用于需要快速、简便地可视化回归模型结果并评估模型性能的MATLAB用户。
 
