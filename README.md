@@ -18,3 +18,4 @@ This project provides a MATLAB-based tool for performing regression analysis and
 3. View the evaluation metrics and performance.
 
 This tool is ideal for those working with regression models in MATLAB who need a quick and easy way to visualize their results and assess model performance.
+![image](https://github.com/user-attachments/assets/71e2b6e2-9e2c-40eb-b995-2da37e921640)
